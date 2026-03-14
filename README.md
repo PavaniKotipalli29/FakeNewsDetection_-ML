@@ -3,6 +3,7 @@
 Binary classification demo using Logistic Regression to distinguish fake vs true news.
 
 **Dataset**
+https://drive.google.com/drive/folders/1uViefNaUP9xhgzR5O4xrAOWYJpuYBOjt
 - **Fake:** [Fake.csv](Fake.csv)
 - **True:** [True.csv](True.csv)
 
